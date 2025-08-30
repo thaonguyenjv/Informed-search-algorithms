@@ -1,0 +1,10 @@
+Bài 1: Bài toán 8 ô số với A* (chương 4 trang 13-28) Nguyên
+Sử dụng thư viện Simple AI để giải bài toán 8 số bằng thuật toán A*.Xây dựng và áp dụng 2 hàm heuristic: h1 và h2. Thực hiện chạy thử với cả 2 hàm heuristic, sau đó so sánh hiệu năng (số bước giải, thời gian thực thi). Đưa ra nhận xét tại sao h2 trội hơn h1.
+
+Bài 2: Thuật toán di truyền (GA) với bài toán 8 quân hậu Hòa
+Giải quyết bài toán xếp 8 quân hậu trên bàn cờ 8×8 bằng thuật toán di truyền (Genetic Algorithm - GA) dùng thư viện SimpleAI. Xây dựng Hàm fitness để đánh giá chất lượng một cấu hình, các thao tác reproduction, crossover, mutation theo chuẩn GA.
+Bài 3: Tìm kiếm cục bộ (Local Search) Quỳnh
+Giải bài toán 8 quân hậu bằng 2 phương pháp: Hill Climbing và Simulated Annealing (SA). Khởi tạo ngẫu nhiên điểm xuất phát với 10 lần chạy thuật toán. Chọn nghiệm tốt nhất trong 10 lần. Thực hiện so sánh hiệu năng giữa Hill Climbing và SA (chất lượng nghiệm, khả năng thoát local optima). (dùng thư viện simpleAI)
+
+Bài 4: Trò chơi Tic-Tac-Toe (3×3) Nhung
+Áp dụng thuật toán Minimax kết hợp Alpha-Beta Pruning để giải quyết trò chơi Tic-Tac-Toe (cờ ca-rô 3×3). Cài đặt từ sách giáo trình (trang 235, tài liệu số 2). So sánh kết quả và hiệu quả tìm kiếm giữa Minimax thuần và Alpha-Beta Pruning.
